@@ -13,7 +13,7 @@ This repository contains a simple remote shell tool written in Go. The tool list
 ## How to Run
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/Basic-Remote-Shell.git
+    git clone https://github.com/TolgaTD/Basic-Remote-Shell.git
     cd Basic-Remote-Shell
 
 
